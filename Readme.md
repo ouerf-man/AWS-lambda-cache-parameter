@@ -1,0 +1,3 @@
+# Caching parameter store in lambda function and
+
+This code shows how we can cache a value in lambda function so we can reduce access to parameter store etc ...
